@@ -12,7 +12,7 @@ This portfolio includes:
 
 ## View the Project
 
-You can check out the portfolio here: [My Portfolio]([https://github.com/ItchyKnee/beginner-html-porftfolio-project](https://itchyknee.github.io/beginner-html-porftfolio-project/)
+You can check out the portfolio here: [My Portfolio](https://itchyknee.github.io/beginner-html-porftfolio-project/)
 
 ## Acknowledgements
 
